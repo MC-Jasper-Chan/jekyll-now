@@ -9,11 +9,9 @@ We are the Code for Canada (Cohort 4) fellowship team working with Measurement C
 
 Jasper Chan, Product Manager
 - E-Mail: [jasper.chan@codefor.ca](mailto:jasper.chan@codefor.ca)
-- LinkedIn: [Jasper Chan](https://www.linkedin.com/in/jasper-ch-chan/)
 
 Ramis Khawaja, User Experience Designer
 - E-Mail: [ramis.khawaja@codefor.ca](mailto:ramis.khawaja@codefor.ca)
-- Twitter: [@judepark](https://twitter.com/judepark)
 
 Noor Syed, Developer
 - E-Mail: [noor.syed@codefor.ca](mailto:noor.syed@codefor.ca)
