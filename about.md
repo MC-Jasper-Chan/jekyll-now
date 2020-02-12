@@ -3,17 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
-We are the Cohort 4 Code For Canada fellowship team working with Transport Canada on their Transportation Security Clearance Modernization Project from January 2020 to October 2020.
+We are the Code for Canada (Cohort 4) fellowship team working with Measurement Canada on the Digital Transformation project from January 2020 to November 2020.
 
 ### Contact the Fellows
 
-Jared Chadwick, Product Manager
-- E-Mail: [jared.chadwick@codefor.ca](mailto:jared.chadwick@codefor.ca)
-- Twitter: [@jaredoc](https://twitter.com/jaredoc)
+Jasper Chan, Product Manager
+- E-Mail: [jasper.chan@codefor.ca](mailto:jasper.chan@codefor.ca)
+- LinkedIn: [Jasper Chan](https://www.linkedin.com/in/jasper-ch-chan/)
 
-Jude Park, User Experience Designer
-- E-Mail: [jude.park@codefor.ca](mailto:jude.park@codefor.ca)
+Ramis Khawaja, User Experience Designer
+- E-Mail: [ramis.khawaja@codefor.ca](mailto:ramis.khawaja@codefor.ca)
 - Twitter: [@judepark](https://twitter.com/judepark)
 
-David Ranger, Developer
-- E-Mail: [david.ranger@codefor.ca](mailto:david.ranger@codefor.ca)
+Noor Syed, Developer
+- E-Mail: [noor.syed@codefor.ca](mailto:noor.syed@codefor.ca)
