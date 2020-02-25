@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're up and running 2!
-featured_img:/images/Lunch&Learn_2.jpg
+featured_img:images/Lunch&Learn_2.jpg
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
