@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: You're up and running 2!
 featured_img:/images/Lunch&Learn_2.jpg
 ---
 
